@@ -39,11 +39,15 @@ O botão de parênteses traz dois resultados, que são:<br>
 
 ### raiz quadrada
 
+Dando uma pressionada longa no botao "Rq/p" vai esta fazendo a raiz quatrada.
+
 ![etapa05](https://github.com/ZaqueuDias/CalculadoraZ/assets/171173595/7e2acdc2-877b-4986-87b3-861ca8cf494c)
 
 ***
 
 ### Potenciação
+
+Dando apenas um click no  "Rq/p" vai esta fazendo a potenciação.
 
 ![etapa06](https://github.com/ZaqueuDias/CalculadoraZ/assets/171173595/a7fce908-85ba-4743-9474-deffac8e44e1)
 
