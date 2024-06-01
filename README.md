@@ -5,7 +5,7 @@
   
 Este aplicativo vai receber algumas atualizações de melhoria e estou aberto a sugestões que possam ser utilizadas para melhorar o aplicativo.
 
-Aqui em baixa esta alguns videos de como ficou a calculadora e o funcionamento dela. 
+Aqui em baixa esta alguns gifs de como ficou a calculadora e o funcionamento dela. 
 ***
 
 ### Uma pequena expressão numerica
