@@ -1,7 +1,7 @@
 # CalculadoraZ
    Olá, meu nome é Zaqueu Dias, tenho 19 anos e esse é meu primeiro projeto em Flutter. Comecei a estudar Dart no começo desse ano e alguns meses depois comecei a estudar Flutter.
  
-  A ideia desse projeto veio de youtubers que trabalham na área da programação, que foi uma calculadora. Com esse projeto pude me familiarizar com a lógica do Flutter e com os widgets que compõem o aplicativo.
+  A ideia da calculadora veio de youtubers que trabalham na área da programação. Com esse projeto pude me familiarizar com a lógica do Flutter e com os widgets que compõem o aplicativo.
   
 Este aplicativo vai receber algumas atualizações de melhoria e estou aberto a sugestões que possam ser utilizadas para melhorar o aplicativo.
 
